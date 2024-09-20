@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+# .env
+
+# Log files
+logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Mac OS system files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Jest test runner cache
+.jest
+
+# npm package-lock.json file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
+
+# macOS folder attributes
+.metadata
+.DS_Store?
+*.swp

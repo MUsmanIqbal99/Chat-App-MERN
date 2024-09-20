@@ -1,0 +1,18 @@
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;      /* Background of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #989898;   /* Color of the scrollbar thumb */
+  border-radius: 6px;       /* Roundness of the scrollbar thumb */
+  border: 2px solid #f1f1f1; /* Padding around the scrollbar thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b0b0b0;         /* Color of the scrollbar thumb when hovered */
+}
